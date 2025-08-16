@@ -1,7 +1,7 @@
           
-                                              S O F T W A R E    E N G I N E E R  
-                                              
-                                                Generative AI & Data Science
+                                    S O F T W A R E    E N G I N E E R  
+                                    
+                                      Generative AI & Data Science
                                                      
                                         
                                          
