@@ -18,19 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=sevenjunebaby&style=flat-square&color=ff69b4" alt="Profile Views"/>
 </p>
 
----
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sevenjunebaby&show_icons=true&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=sevenjunebaby&theme=tokyonight&border_radius=5" />
-    </td>
-  </tr>
-</table>
-
----
 
 
