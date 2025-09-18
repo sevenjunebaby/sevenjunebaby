@@ -5,10 +5,13 @@
   alt="Software Engineer — Generative AI & Data Science"
 />
 <p>
-  <b>For Any Collaboration You Can Visit My Portfolio ✓</b>
+  <b> Portfolio ✓</b>
   <a href="https://portfolio-eta-flame-69.vercel.app/">
-    <img src="https://cdn-icons-png.flaticon.com/16/7811/7811495.png" alt="Portfolio" width="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/16/7811/7811495.png" alt="Portfolio" width="30"/></a> <b>Founder ✓</b>
+  <a href="https://sevenjune.vercel.app/">
+    <img src="https://avatars.githubusercontent.com/u/190557347?s=200&v=4" alt="AI" width="30"/>
   </a>
+  
 </p>
 
 </div>
@@ -16,6 +19,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sevenjunebaby&style=flat-square&color=ff69b4" alt="Profile Views"/>
+
+  
 </p>
 
 
