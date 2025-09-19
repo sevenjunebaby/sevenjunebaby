@@ -7,7 +7,7 @@
 <p>
   <b> Portfolio ✓</b>
   <a href="https://portfolio-eta-flame-69.vercel.app/">
-    <img src="https://cdn-icons-png.flaticon.com/16/7811/7811495.png" alt="Portfolio" width="30"/></a> <b>Founder ✓</b>
+    <img src="https://cdn-icons-png.flaticon.com/16/7811/7811495.png" alt="Portfolio" width="30"/></a> <b>Colab with ✓</b>
   <a href="https://sevenjune.vercel.app/">
     <img src="https://avatars.githubusercontent.com/u/190557347?s=200&v=4" alt="AI" width="30"/>
   </a>
