@@ -13,11 +13,7 @@
 </div>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sevenjunebaby&style=flat-square&color=ff69b4" alt="Profile Views"/>
 
-  
-</p>
 
 
 
