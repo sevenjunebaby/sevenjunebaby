@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Inter&size=36&duration=1700&pause=800&color=FF1493&center=true&vCenter=true&width=1000&lines=A+I%E2%80%83L+E+A+R+N+E+R"
+  src="https://readme-typing-svg.demolab.com?font=Inter&size=36&duration=1700&pause=800&color=FF1493&center=true&vCenter=true&width=1000&lines=J+U+S+T%E2%80%83S+T+U+D+E+N+T"
   alt="Software Engineer — Generative AI & Data Science"
 />
 <p>
