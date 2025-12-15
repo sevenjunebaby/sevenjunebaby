@@ -5,7 +5,7 @@
   alt="Software Engineer — Generative AI & Data Science"
 />
 <p>
-  <b> Portfolio ✓</b>
+
   <a href="https://portfolio-eta-flame-69.vercel.app/">
     <img src="https://cdn-icons-png.flaticon.com/16/7811/7811495.png" alt="Portfolio" width="30"/></a> 
 </p>
