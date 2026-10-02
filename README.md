@@ -10,7 +10,7 @@
     <img src="https://cdn-icons-png.flaticon.com/16/7811/7811495.png" alt="Portfolio" width="30"/></a> 
 &nbsp;&nbsp;&nbsp;&nbsp;
     
-  <a href="https://www.linkedin.com/in/wissal-yahia-16793a19b" target="_blank">
+  <a href="https://www.linkedin.com/in/wissalyahia/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://leetcode.com/sevenjunebaby/" target="_blank">
